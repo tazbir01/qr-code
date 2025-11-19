@@ -6,3 +6,11 @@ body{
 #url{
     padding: 10px 30px;
 }
+
+.btn{
+    border: none;
+    padding: 12px 15px;
+    color: white;
+    background: red;
+    border-radius: 3px;
+}
