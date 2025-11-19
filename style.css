@@ -14,3 +14,9 @@ body{
     background: red;
     border-radius: 3px;
 }
+
+#QR-code{
+    width: 200px;
+    margin: auto;
+    padding: 20px;
+}
